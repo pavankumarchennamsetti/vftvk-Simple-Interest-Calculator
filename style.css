@@ -1,5 +1,8 @@
 body {background-color:black;font-family:white}
 h1{color:grey;font-family:verdana}
+body{
+    align:center;
+}
 .maindiv
 {
     background-color:white;
