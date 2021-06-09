@@ -2,6 +2,9 @@ body {background-color:black;font-family:white}
 h1{color:grey;font-family:verdana}
 body{
     align:center;
+    width:100%
+    padding:100%;
+    background-color:grey;
 }
 .maindiv
 {
